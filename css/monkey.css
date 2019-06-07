@@ -11,9 +11,7 @@ html {
 /* Write your solution here */
 
 @media only screen and (min-width 642px and max-width: 1090px) {
-  #monkey {
-    position: absolute;
-    top: 200px;
-    right: 120px;
+  #dolphin {
+    transform: translate(120px, 50%);
   }
 }
