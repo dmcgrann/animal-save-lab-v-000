@@ -11,7 +11,9 @@ html {
 /* Write your solution here */
 
 @media only screen and (min-width 642px and max-width: 1090px) {
-  #ostrich {
+  ##monkey {
     position: absolute;
-    top: -50px;
+    top: 200px;
+    right: 120px;
+  }
   }
